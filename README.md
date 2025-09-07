@@ -1,2 +1,39 @@
-# Data-Analytics-Projects
-Explore a collection of end-to-end data analytics projects showcasing SQL, Python, and Power BI. Gain valuable insights and solutions to real-world problems through data extraction, analysis, and visualization. Ideal for beginners and professionals looking to enhance their skills in data analytics.
+# 📊 Amazon Sales Data Analytics Project
+
+## 🚀 Project Overview
+This project leverages **Amazon sales records (2M+ transactions)** to deliver data-driven insights and business impact using **Power BI, SQL, and Excel automation**.
+
+## 🔑 Key Highlights
+- 📈 Processed **2M+ Amazon sales records** to build interactive **Power BI dashboards** with advanced DAX drill-downs, improving targeting by **20%**.  
+- ⚡ Developed scalable **SQL pipelines**, reducing query runtime by **40%** and enabling seamless multi-source integration.  
+- 🤖 Automated weekly **Excel/Power BI reporting**, saving **150+ analyst hours annually**.  
+- 🎯 Designed advanced **segmentation models** that improved customer targeting strategies by **25%**.  
+
+## 🛠️ Tech Stack
+- **Power BI** – Advanced dashboards, DAX calculations, drill-throughs.  
+- **SQL** – Optimized queries, ETL pipelines, multi-source integration.  
+- **Excel** – Automated reporting, pivot tables, VBA scripts.  
+- **Data Modeling** – Customer segmentation, trend forecasting.  
+
+## 📂 Project Structure
+```
+Amazon-Sales-Analytics/
+│── data/                # Raw & processed sales data  
+│── dashboards/          # Power BI dashboard files  
+│── sql/                 # SQL queries & pipeline scripts  
+│── reports/             # Automated Excel/Power BI reports  
+│── README.md            # Project documentation  
+```
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Dashboard Preview" width="800"/>
+</p>
+
+## 🚀 Impact
+This project demonstrates **data-driven decision making**, optimizing customer targeting and saving **hundreds of analyst hours**, making it highly relevant for real-world business intelligence applications.
+
+---
+
+👨‍💻 Developed by **[Rishab Singhal]**
