@@ -28,7 +28,7 @@ Amazon-Sales-Analytics/
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Dashboard Preview" width="800"/>
+  <img src="https://github.com/rishansinghal/Amazon-Sales-Analytics/blob/368e866119063e86f2b225503a3ba8b031026aec/power%20bi%20dashbord.png" alt="Dashboard Preview" width="800"/>
 </p>
 
 ## 🚀 Impact
